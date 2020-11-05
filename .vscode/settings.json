@@ -1,0 +1,7 @@
+{
+    "emmet.includeLanguages": {
+        "react": "html"
+    },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true
+}
