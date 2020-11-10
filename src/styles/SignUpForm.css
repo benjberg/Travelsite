@@ -1,0 +1,21 @@
+.Form-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+}
+label {
+  margin-top: 3rem;
+  font-size: 20px;
+}
+input {
+  font-size: 2rem;
+}
+
+button {
+  margin-top: 1rem;
+}

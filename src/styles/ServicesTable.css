@@ -1,0 +1,31 @@
+.wrapper {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+}
+
+.card {
+  width: 34%;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+.img {
+  width: 100%;
+}
+
+.text-muted {
+  display: flex;
+  justify-content: center;
+}
+
+@media screen and (max-width: 960px) {
+  .wrapper {
+    flex-direction: column;
+  }
+  .card {
+    width: 100%;
+  }
+}
